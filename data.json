@@ -1,0 +1,14 @@
+[
+    {
+        "id": "123456",
+        "nama": "Budi Santoso",
+        "umur": 25,
+        "email": "budi@example.com"
+    },
+    {
+        "id": "789012",
+        "nama": "Siti Aisyah",
+        "umur": 30,
+        "email": "siti@example.com"
+    }
+]
